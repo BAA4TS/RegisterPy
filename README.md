@@ -3,6 +3,8 @@
 ## Descripción
 BAA4TS es una aplicación de gestión de contenido desarrollada en Python utilizando Tkinter y Openpyxl. Permite a los usuarios ingresar datos como nombres, edad, estado de suscripción y empleo, almacenarlos en un archivo Excel y mostrarlos en una interfaz de tabla.
 
+![Imagen del sofware](Github/img.jpeg)
+
 ## Características
 - Interfaz de usuario intuitiva con Tkinter.
 - Almacenamiento y manipulación de datos utilizando Openpyxl.
